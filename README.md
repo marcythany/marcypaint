@@ -7,6 +7,7 @@
 ![License](https://img.shields.io/badge/license-MIT-%23007EC6?style=flat)
 
 <div id="Portugues"></div>
+
 **Português** | [English](#english)
 
 ## 📚 Sobre o Projeto
@@ -75,7 +76,7 @@ MIT License - Detalhes
 ![i18next](https://img.shields.io/badge/i18next-24.2.3-%23000000?style=flat&logo=i18next)
 ![License](https://img.shields.io/badge/license-MIT-%23007EC6?style=flat)
 
-[**Português**](#Portugues) | **English**
+[Português](#Portugues) | **English**
 
 ## 📚 About the Project
 
@@ -132,4 +133,5 @@ npm run build
 ## 📄 License
 
 MIT License - Details
+
 # marcypaint
