@@ -6,6 +6,10 @@ import tailwindcss from '@tailwindcss/vite'
 export default defineConfig({
   plugins: [react(), tailwindcss()],
   build: {
-    target: 'es2020'
+    target: 'esnext',
+    outDir: 'dist'
+  },
+  server: {
+    port: 5173
   }
 })
