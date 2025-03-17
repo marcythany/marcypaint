@@ -1,4 +1,11 @@
 {
+	"compilerOptions": {
+		"lib": ["ES2020", "DOM"],
+		"esModuleInterop": true,
+		"allowSyntheticDefaultImports": true,
+		"jsx": "react-jsx",
+		"skipLibCheck": true
+	},
 	"files": [],
 	"references": [
 		{ "path": "./tsconfig.app.json" },
